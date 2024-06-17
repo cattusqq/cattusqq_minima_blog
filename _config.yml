@@ -1,10 +1,9 @@
-remote_theme: jekyll/minima
+remote_theme: jekyll-theme-chirpy
 title: CattusQQs Blog
 author: CattusQQ
 description: A place to document CattusQQs projects
 
-minima:
-  skin: solarized
+
 
 header_pages:
   - about.md
