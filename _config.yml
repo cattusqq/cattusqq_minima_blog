@@ -5,3 +5,7 @@ description: A place to document CattusQQs projects
 
 minima:
   skin: solarized
+
+header_pages:
+  - about.md
+  - portfolio.md
