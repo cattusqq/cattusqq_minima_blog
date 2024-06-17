@@ -4,7 +4,7 @@ author: CattusQQ
 description: A place to document CattusQQs projects
 
 minima:
-  skin: solarize
+  skin: solarized
 
 header_pages:
   - about.md
